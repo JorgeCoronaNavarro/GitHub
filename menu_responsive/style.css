@@ -95,3 +95,7 @@ header{
         margin-bottom: 20px;
     }
 }
+
+.greeting{
+    text-align:center;
+}
